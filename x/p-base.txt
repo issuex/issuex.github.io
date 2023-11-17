@@ -62,7 +62,7 @@ beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
-beacon−api.aliyuncs.com
+beacon-api.aliyuncs.com
 bidder.criteo.com
 bigo.sg
 bigo.tv
