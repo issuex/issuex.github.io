@@ -5,6 +5,7 @@
 2eroticporns.com
 a.nel.cloudflare.com
 a.tribalfusion.com
+a4.applovin.com
 abtest.alibaba.com
 activity.windows.com
 ad.watchlakorn.in
@@ -19,6 +20,7 @@ amazon-adsystem.com
 analytics-tcp.mintegral.net
 analytics.apis.mcafee.com
 analytics.ff.avast.com
+analytics.picsart.com
 analytics.samsungknox.com
 analytics.tiktok.com
 analytics.twitter.com
@@ -36,6 +38,7 @@ app.adjust.com
 app.adjust.net.in
 app.adjust.world
 app.appsflyer.com
+applog.camera360.com
 apponic.com
 asia-comonrt-stsdk.vivoglobal.com
 asia-comort-stsdk.vivoglobal.com
@@ -58,11 +61,11 @@ baidu.com
 banner.appsflyer.com
 bare.live
 bcmls2.glpals.com
+beacon-api.aliyuncs.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
-beacon-api.aliyuncs.com
 bidder.criteo.com
 bigo.sg
 bigo.tv
@@ -76,6 +79,7 @@ cdn-settings.segment.com
 cdn.izooto.com
 cdn.mobilefuse.com
 cdn2.inner-active.mobi
+cdp.cloud.unity3d.com
 clarity.ms
 client.wns.windows.com
 cloudflareinsights.com
@@ -84,6 +88,7 @@ comm-cohort.ess.apple.com
 comm-main.ess.apple.com
 commnat-cohort-gc.ess.apple.com
 commnat-main-gc.ess.apple.com
+common-api.360in.com
 config.inmobi.com
 configure-tcp.mtgglobals.com
 configv2.unityads.unity3d.com
@@ -97,6 +102,7 @@ deff.nelreports.net
 demdex.net
 dev.visualwebsiteoptimizer.com
 device.marketingcloudapis.com
+dispatcher.360in.com
 dns-tunnel-check.googlezip.net
 doubleclick.net
 doubleverify.com
@@ -107,9 +113,11 @@ entitlements.jwplayer.com
 epdg.epc.mnc003.mcc520.pub.3gppnetwork.org
 epdg.epc.mnc004.mcc520.pub.3gppnetwork.org
 epdg.epc.mnc005.mcc520.pub.3gppnetwork.org
+epdg.epc.mnc019.mcc520.pub.3gppnetwork.org
 epdg.epc.mnc047.mcc520.pub.3gppnetwork.org
 epdg.epc.mnc099.mcc520.pub.3gppnetwork.org
 errlog.umeng.com
+et-eus.w.inmobi.com
 faceueditor.com
 feed-api-sg.capcut.com
 firebase-settings.crashlytics.com
@@ -140,6 +148,7 @@ ichnaea-web.netflix.com
 ideas.mozilla.org
 impression.appsflyer.com
 imrworldwide.com
+inapps.appsflyer.com
 inference.location.live.net
 init.ess.apple.com
 innity.net
@@ -193,6 +202,7 @@ p16-sg-default.akamaized.net
 pangle.io
 partner.googleadservices.com
 passport-api-sg.capcut.com
+phototask-api.360in.com
 pingback.giphy.com
 porn5xxx.com
 pornoperso.com
@@ -238,6 +248,7 @@ static.criteo.net
 static.hotjar.com
 static2.thairath.co.th
 stats.wp.com
+t.xapads.com
 t1.77player.xyz
 t2.77player.xyz
 taboola.com
@@ -252,12 +263,14 @@ testdata.coremetrics.com
 thegfporn.com
 tnc16-alisg.isnssdk.com
 toomxxxpornn.com
+top-fwz1.mail.ru
 track.analytics-data.io
 tracker.btorrent.xyz
 tracker.one3up.com
 tracker.openwebtorrent.com
 tracker.stats.in.th
 tracking-protection-issues.herokuapp.com
+tracking.xapads.com
 trk.pinterest.com
 truehits.in.th
 tunnel.googlezip.net
@@ -284,6 +297,7 @@ www.javbob.com
 www.javtai.com
 www.javzd.com
 www.line-website.com
+www.tns-counter.ru
 xn--12cl2buca7fybuba7bxgwexc0b1f.com
 xn--12cm5bh7avebl4h0bzd2fc8cwcv5d.com
 xn--168-1klyfn3i1b2j7c.com
