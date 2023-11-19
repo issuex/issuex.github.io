@@ -12,8 +12,10 @@ ad.watchlakorn.in
 ad2.fivecdm.com
 adashx4ae.ut.taobao.com
 adcolony.com
+adrta.com
 ads-twitter.com
 ads.pubmatic.com
+adservice.google.co.in
 adx-th.ads.heytapmobile.com
 akstat.io
 amazon-adsystem.com
@@ -62,6 +64,7 @@ banner.appsflyer.com
 bare.live
 bcmls2.glpals.com
 beacon-api.aliyuncs.com
+beacon.qq.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons3.gvt2.com
@@ -70,6 +73,7 @@ bidder.criteo.com
 bigo.sg
 bigo.tv
 bigolive.tv
+btrace.wetvinfo.com
 bugsnag.com
 c.go-mpulse.net
 callapp-callapp.adsbynimbus.com
@@ -79,6 +83,7 @@ cdn-settings.segment.com
 cdn.izooto.com
 cdn.mobilefuse.com
 cdn2.inner-active.mobi
+cdnimg.izooto.com
 cdp.cloud.unity3d.com
 clarity.ms
 client.wns.windows.com
@@ -89,9 +94,9 @@ comm-main.ess.apple.com
 commnat-cohort-gc.ess.apple.com
 commnat-main-gc.ess.apple.com
 common-api.360in.com
-config.inmobi.com
 configure-tcp.mtgglobals.com
 configv2.unityads.unity3d.com
+crashlytics.com
 d.applovin.com
 d.applvn.com
 data.flurry.com
@@ -110,6 +115,7 @@ downloaddd.in.th
 ecs.nel.measure.office.net
 editor-api-sg.capcut.com
 entitlements.jwplayer.com
+epdg.epc.mnc000.mcc520.pub.3gppnetwork.org
 epdg.epc.mnc003.mcc520.pub.3gppnetwork.org
 epdg.epc.mnc004.mcc520.pub.3gppnetwork.org
 epdg.epc.mnc005.mcc520.pub.3gppnetwork.org
@@ -117,10 +123,9 @@ epdg.epc.mnc019.mcc520.pub.3gppnetwork.org
 epdg.epc.mnc047.mcc520.pub.3gppnetwork.org
 epdg.epc.mnc099.mcc520.pub.3gppnetwork.org
 errlog.umeng.com
-et-eus.w.inmobi.com
+evergage.com
 faceueditor.com
 feed-api-sg.capcut.com
-firebase-settings.crashlytics.com
 fw.adsafeprotected.com
 gcp.nel.cloudflare.com
 geolocation.onetrust.com
@@ -138,6 +143,7 @@ grs.dbankcloud.eu
 grs.hicloud.com
 grs.platform.dbankcloud.ru
 gum.criteo.com
+h.online-metrix.net
 haiporn.com
 hao123.com
 hbsdk-config.log.smaato.net
@@ -151,6 +157,7 @@ imrworldwide.com
 inapps.appsflyer.com
 inference.location.live.net
 init.ess.apple.com
+inmobi.com
 innity.net
 insights-collector.newrelic.com
 inwporn.com
@@ -164,6 +171,7 @@ launches.appsflyer.com
 lbs.glpals.com
 live.chartboost.com
 location.services.mozilla.com
+logservice.hicloud.com
 maps.windows.com
 mawtoload.com
 mcs-sg.tiktok.com
@@ -183,6 +191,7 @@ mon-va.byteoversea.com
 mon.byteoversea.com
 mon.isnssdk.com
 mon.tiktokv.com
+mparticle.weather.com
 ms.applovin.com
 ms.applvn.com
 ms4.applovin.com
@@ -195,6 +204,7 @@ notionsshrivelcustomer.com
 omtrdc.net
 one.123counters.com
 openlocation-dra.platform.dbankcloud.com
+optimizely.com
 ovisurethailand.in.th
 ow.pubmatic.com
 p.typekit.net
@@ -214,6 +224,7 @@ prod-mediate-events.applovin.com
 proofpoint.com
 px.moatads.com
 px4.ads.linkedin.com
+qcc.qualcomm.com
 qgepodownload.mediatek.com
 qzs.gdtimg.com
 r42tag.com
@@ -231,6 +242,7 @@ sc.omtrdc.net
 script.hotjar.com
 sdk.iad-01.braze.com
 sdk.iad-03.braze.com
+sdkconfig.ad.xiaomi.com
 sec.umeng.com
 sentry.io
 sentry.paylater.scredit.ph
@@ -256,7 +268,6 @@ tags.expo9.exponential.com
 telemetry-coverage.mozilla.org
 telemetry.api.swiftkey.com
 telemetry.mozilla.org
-telemetry.sdk.inmobi.com
 telemetry.soundcloud.com
 telemetry.vg.ac.pvp.net
 testdata.coremetrics.com
@@ -264,12 +275,14 @@ thegfporn.com
 tnc16-alisg.isnssdk.com
 toomxxxpornn.com
 top-fwz1.mail.ru
+trace.qq.com
 track.analytics-data.io
 tracker.btorrent.xyz
 tracker.one3up.com
 tracker.openwebtorrent.com
 tracker.stats.in.th
 tracking-protection-issues.herokuapp.com
+tracking.miui.com
 tracking.xapads.com
 trk.pinterest.com
 truehits.in.th
@@ -286,6 +299,7 @@ vc-mirror.ndcpp-os.com
 vessoft.com
 vulcan2.branch.io
 vulcan5.branch.io
+weather-analytics-events.apple.com
 wizcase.com
 wns2-bl2p.wns.windows.com
 www.carriersignal.info
