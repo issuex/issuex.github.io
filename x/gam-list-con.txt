@@ -179,7 +179,6 @@
 *##[href*="m3.fastav07.online"]
 *##[href*="m3.fastav08.online"]
 *##[href*="mahagame882.com"]
-*##[href*="main.77player.xyz"]
 *##[href*="max878.com"]
 *##[href*="mdn114.com"]
 *##[href*="megawinslot.com"]
