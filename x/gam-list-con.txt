@@ -297,7 +297,6 @@
 *##[href*="thais7.com"]
 *##[href*="thais8.com"]
 *##[href*="thaitopbet.com"]
-*##[href*="tinyurl.com"]
 *##[href*="tmh168.com"]
 *##[href*="u2tbcg.com"]
 *##[href*="ufa-thai.com"]
