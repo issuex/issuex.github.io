@@ -2,3 +2,6 @@
 .vip
 .bet
 .win
+.vin
+.fun
+.club
