@@ -43,6 +43,7 @@ ap.vg.ac.pvp.net
 api.amplitude.com
 api.mixpanel.com
 api.pubnative.net
+api.radar.io
 api2.amplitude.com
 api2.appsflyer.com
 api2.branch.io
@@ -55,6 +56,7 @@ appboy-images.com
 apple-finance.query.yahoo.com
 applog.camera360.com
 applog.matrix.easebar.com
+applog.uc.cn
 applvn.com
 apponic.com
 aralego.com
@@ -150,6 +152,7 @@ ecs.nel.measure.office.net
 editor-api-sg.capcut.com
 editor-api-sg.capcutapi.com
 editor-api.capcutapi.com
+engagements.appsflyer.com
 entitlements.jwplayer.com
 epdg.epc.mnc000.mcc520.pub.3gppnetwork.org
 epdg.epc.mnc003.mcc520.pub.3gppnetwork.org
@@ -164,6 +167,7 @@ evergage.com
 faceueditor.com
 feed-api-sg.capcut.com
 feed-api-va.capcutapi.com
+gameplay.intel.com
 gcp.nel.cloudflare.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo.yahoo.com
@@ -184,12 +188,15 @@ grs.dbankcloud.eu
 grs.hicloud.com
 grs.platform.dbankcloud.ru
 gum.criteo.com
+h-adashx4ae.ut.taobao.com
 h.online-metrix.net
 haiporn.com
 hao123.com
 hbsdk-config.log.smaato.net
 hotsexporn.com
 i.isnssdk.com
+i.singular.net
+i2-dlbebecnnuewbtvgxovajortqsgpgy.init.cedexis-radar.net
 iadsdk.apple.com
 ichnaea-web.netflix.com
 ideas.mozilla.org
@@ -216,6 +223,7 @@ l.flat-ads.com
 launches.appsflyer.com
 lbs.glpals.com
 live.chartboost.com
+livejasmin.com
 location.services.mozilla.com
 logservice.hicloud.com
 maps.windows.com
@@ -293,6 +301,7 @@ s10.histats.com
 s2.go-mpulse.net
 s2s.adjust.com
 s7.addthis.com
+samsungnewsapi.picks.my
 sb.scorecardresearch.com
 sc.omtrdc.net
 script.hotjar.com
