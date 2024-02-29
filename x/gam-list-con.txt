@@ -3,6 +3,7 @@
 *##[href*="123aff.in"]
 *##[href*="12winpan.com"]
 *##[href*="16882sagame.com"]
+*##[href*="ufac4a.com"]
 *##[href*="16883sagame.com"]
 *##[href*="16884sagame.com"]
 *##[href*="16885sagame.com"]
