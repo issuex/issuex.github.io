@@ -5,3 +5,4 @@
 .vin
 .fun
 .club
+*##[href^="https://t.ly"]
